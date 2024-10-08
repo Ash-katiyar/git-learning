@@ -1,2 +1,0 @@
-Issue is resolved.
-bugfix is done.
